@@ -114,6 +114,7 @@ aside li{
  .container{
     width: 1200px;
     margin: 0 auto;
+    padding: auto;
     
 }
 .author-img{
